@@ -251,8 +251,6 @@ print("""
                                                                 
 """)
 print('\033[0;32mWELCOME TO MY TOOL CCTV-R / ONLINE CCTV HACKED')
-:
-                os.system("python CCTV-R.py")
 
 os.system(delet)
 print("""\033[0;35m
