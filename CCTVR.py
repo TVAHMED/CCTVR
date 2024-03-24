@@ -250,7 +250,7 @@ print("""
 ╚═════╝    ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
                                                                 
 """)
-print('\033[0;32mWELCOME TO MY TOOL CCTV-R / ONLINE CCTV HACKED')
+print('\033[0;32mWELCOME TO MY TOOL CCTV-R / ONLINE CCTVR HACKED')
 
 os.system(delet)
 print("""\033[0;35m
